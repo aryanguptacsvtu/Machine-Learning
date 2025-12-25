@@ -1,0 +1,22 @@
+# Core Data Science Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Hyperparameter Optimization
+optuna
+
+# Handling Imbalanced Datasets
+imbalanced-learn
+
+# Ensemble Methods & Gradient Boosting
+xgboost
+
+# Additional Utilities
+scipy
+joblib
+plotly
