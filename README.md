@@ -4,13 +4,15 @@ A comprehensive collection of machine learning implementations, tutorials, and e
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Projects](#projects)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Repository Structure](#-repository-structure)
+- [Technologies Used](#-technologies-used)
+- [Getting Started](#-getting-started)
+- [Datasets](#-datasets)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
